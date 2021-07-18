@@ -35,6 +35,8 @@ Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı is
 
 @blackorbird
 
+@PRODAFT_TR
+
 @0xthreatintel
 
 @MichalKoczwara
