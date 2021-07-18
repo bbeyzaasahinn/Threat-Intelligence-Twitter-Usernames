@@ -1,5 +1,5 @@
 # Threat-Intelligence-Twitter-Usernames
-Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı isimleri 
+Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı adlarının listesi
 
 @MsftSecIntel
 
