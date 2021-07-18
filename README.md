@@ -21,8 +21,6 @@ Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı is
 
 @h2jazi
 
-@MBThreatIntel
-
 @ffforward
 
 @RobertMLee
@@ -51,15 +49,11 @@ Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı is
 
 @stoerchl
 
-@h2jazi 
-
 @Circuitous__
 
 @pmmkowalczyk
 
 @z0ul_
-
-@ShadowChasing1
 
 @c3rb3ru5d3d53c
 
