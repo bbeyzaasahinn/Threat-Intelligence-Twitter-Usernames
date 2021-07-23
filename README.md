@@ -66,3 +66,5 @@ Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı ad
 @HeliosCert
 
 @cyber__sloth
+
+@phishunt_io
