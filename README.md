@@ -68,3 +68,5 @@ Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı ad
 @cyber__sloth
 
 @phishunt_io
+
+https://twitter.com/i/lists/917864294053752832?s=20 - IoC Feed List
