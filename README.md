@@ -1,6 +1,8 @@
 # Threat-Intelligence-Twitter-Usernames
 Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı adlarının listesi
 
+https://twitter.com/i/lists/917864294053752832?s=20 - IoC Feed List
+
 @MsftSecIntel
 
 @malwrhunterteam
@@ -69,4 +71,18 @@ Threat Intelligence ile ilgilenenlerin takip etmesini önerdiğim kullanıcı ad
 
 @phishunt_io
 
-https://twitter.com/i/lists/917864294053752832?s=20 - IoC Feed List
+@JAMESWT_MHT
+
+@yvesago
+
+@micham
+
+@r3dbU7z
+
+@fbgwls245
+
+@ActorExpose
+
+@FewAtoms
+
+@moshsrv
